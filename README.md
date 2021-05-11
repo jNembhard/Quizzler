@@ -12,11 +12,11 @@ python main.py
 
 ## How To Play
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://github.com/jNembhard/Quizzler/blob/master/styles.css">
 
 <body>
   <div class="content">
-    <img src="Quizzler.gif" width="200" height="300">
+    <img src="https://github.com/jNembhard/Quizzler/blob/master/Quizzler.gif" width="200" height="300">
     <div class="text">
       <ul>
         <li> Running main.py will start the trivia game (An interactive GUI).</li>
@@ -56,4 +56,4 @@ python main.py
 	* Creates the QuizInterface class.
 	* The GUI object displayed to the user.
 	* User can click the "Check Mark", or the "X" buttons to answer True or False for each question.
-	* The scree
+	* The screen changes color based on answer (Green = Correct, Red = Incorrect). 
