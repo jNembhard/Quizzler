@@ -15,23 +15,25 @@ python main.py
 <link rel="stylesheet" href="https://github.com/jNembhard/Quizzler/blob/masterstyles.css">
 
 <body>
-  <p style="float:right" class="content">
-    <img src="https://github.com/jNembhard/Quizzler/blob/master/Quizzler.gif" width="200" height="300">
-  <div class="text">
-    <ul>
-      <li> Running main.py will start the trivia game (An interactive GUI).</li>
-      <li> You can click the "Check Mark" to answer True or the "X" button to answer False for each question. </li>
-      <li> The game's screen background will flash "Green" for "Correct" answers and Red for "Incorrect" answers.</li>
-      <li> The game is set to 10 questions, which can be edited if needed in the data.py file. </li>
-      <li>After the game is finished, the screen reads "You've reached the end of the quiz!"</li>
-      <li>Score is updated at the top of the screen. </li>
-      <li>To exit the game simply close the window.</li>
-    </ul>
-  </div>
-  </p>
+  <table>
+    <tr>
+      <td> <img src="https://github.com/jNembhard/Quizzler/blob/master/Quizzler.gif" width="200" height="300"></td>
+      <td>
+        <ul>
+          <li> Running main.py will start the trivia game (An interactive GUI).</li>
+          <li> You can click the "Check Mark" to answer True or the "X" button to answer False for each question. </li>
+          <li> The game's screen background will flash "Green" for "Correct" answers and Red for "Incorrect" answers.</li>
+          <li> The game is set to 10 questions, which can be edited if needed in the data.py file. </li>
+          <li>After the game is finished, the screen reads "You've reached the end of the quiz!"</li>
+          <li>Score is updated at the top of the screen. </li>
+          <li>To exit the game simply close the window.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </body>
 
-<br /><br />
+<br />
 
 
 ##  .py Files
